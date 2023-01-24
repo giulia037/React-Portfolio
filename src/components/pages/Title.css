@@ -1,0 +1,70 @@
+.Title {
+    box-sizing: border-box;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    padding: 1em;
+    margin-bottom: 2em;
+    background-color: darkblue;
+    color: #fff;
+  }
+
+  .header {
+    box-sizing: border-box;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    padding: 1em;
+    margin-bottom: 2em;
+  }
+
+  .card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* this adds the "card" effect */
+    text-align: center;
+    background-color: #f1f1f1;
+    
+  }
+
+  .card2{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* this adds the "card" effect */
+    text-align: center;
+    background-color: #f1f1f1;
+    padding: 200px;
+    background-color: tan;
+    margin-top: 100px;
+    
+  }
+  
+
+  .about {
+    padding: 50px;
+    text-align: center;
+  }
+
+ 
+  .footer {
+    margin-top: 220px;
+    width: 100%;
+    background-color: darkblue;
+    color: white;
+    text-align: center;
+  }
+
+  .form {
+    margin: 20px;
+  }
+  
+  .form input {
+    display: block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 100%;
+  }
+
+.i-icons{
+  justify-content: space-between;
+  margin-left: 50px;
+  margin-top: 120px;
+}
